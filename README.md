@@ -1,6 +1,6 @@
 # Plugin-Wordpress-Chat-WA
 ////
-Hello, for those of you who are confused about finding Wordpress plugins for WA live chat or chat bots.
+Hello, for those of you who are confused about finding Wordpress plugins for WA Whatsapp live chat or chat bots.
  Confused about finding the right plugin, you can use my recommendation.
 
 // Indonesia //
